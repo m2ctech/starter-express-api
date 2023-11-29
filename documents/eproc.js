@@ -30,7 +30,7 @@ module.exports = (email)=>{
                                     <li style="margin-bottom: 5px;">Enhanced productivity</li>
                                     <li style="margin-bottom: 5px;">Unparalleled user experience</li>
                                 </ul>
-                                <a href="https://yourcompany.com/prelaunch" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 5px;">Learn More</a>
+                                <a href="https://eprochub.netlify.app/" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 5px;">Learn More</a>
                             </td>
                         </tr>
                         <tr>
